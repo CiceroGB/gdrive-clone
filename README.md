@@ -1,6 +1,7 @@
 # Google Drive Clone - Semana JS Expert 5.0
 
 Projeto desenvolvido na Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
+Acesse o projeto em https://gdrive-webapp-cgb.herokuapp.com/
 
 
 ## Preview
@@ -18,20 +19,12 @@ Projeto desenvolvido na Semana Javascript Expert. Este é o código inicial para
     - [X] Deve atingir 100% de cobertura de código em testes
 
 - Web App 
-    - [] Deve listar arquivos baixados
-    - [] Deve permitir fazer upload de arquivos de qualquer tamanho
-    - [] Deve ter função de upload via botão
-    - [] Deve exibir progresso de upload 
-    - [] Deve ter função de upload via drag and drop
+    - [X] Deve listar arquivos baixados
+    - [X] Deve permitir fazer upload de arquivos de qualquer tamanho
+    - [X] Deve ter função de upload via botão
+    - [X] Deve exibir progresso de upload 
+    - [X] Deve ter função de upload via drag and drop
 
-
-
-
-
-### Considerações
-- Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
-
-- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no **Discord**
 
 ## Créditos ao Layout <3
 
